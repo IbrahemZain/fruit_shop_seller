@@ -1,4 +1,4 @@
-# graduation_project_seller
+# Fruit_Shop_Seller
 
 A new Flutter project.
 
